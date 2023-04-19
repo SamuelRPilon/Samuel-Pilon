@@ -1,4 +1,4 @@
-# 👋 Hey there  I'm Sam
+# 👋 Hey there, I'm Sam!
 
 ## About Me
 

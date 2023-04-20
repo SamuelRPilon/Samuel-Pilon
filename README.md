@@ -16,7 +16,7 @@ Here are some of my notable projects:
 
 Currently improving my programming skills:
 - Python
-- Java
+- Julia
 
 ## Contact
 

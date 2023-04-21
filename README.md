@@ -8,8 +8,8 @@ I am an ~~aspiring~~ Aerospace Engineer with strong skills in problem-solving, s
 
 Here are some of my notable projects:
 
-- [Project 1](link-to-project): Euler Spining Top with Friction Simulation (this link no work)
-- [Project 2](link-to-project): Electroencephalogram Headset (this link no work)
+- [Project 1](https://github.com/SamuelRPilon/SpinningTopUsingEulerAngles): Euler Spinning Top with Friction Simulation
+- [Project 2](): Electroencephalogram Headset (this link no work)
 - [Project 3](link-to-project): Gravitational Torque Stabilization Simulation (this link no work)
 
 ## What Im Learning 🧠

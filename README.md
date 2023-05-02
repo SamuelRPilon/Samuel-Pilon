@@ -10,7 +10,7 @@ Here are some of my notable projects:
 
 - [Project 1](https://github.com/SamuelRPilon/SpinningTopUsingEulerAngles): Euler Spinning Top with Friction Simulation
 - [Project 2](): Electroencephalogram Headset (this link no work)
-- [Project 3](link-to-project): Gravitational Torque Stabilization Simulation (this link no work)
+- [Project 3](https://github.com/SamuelRPilon/Gravity-Gradient-Stabilization-Simulation): Gravitational Torque Stabilization Simulation 
 
 ## What Im Learning 🧠
 
